@@ -1,4 +1,4 @@
----
+Allow app to be used---
 manufacturer:
     - tecno
 
